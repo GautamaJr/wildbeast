@@ -10,4 +10,4 @@
    - HTML
    - CSS
 
-👁️ Visualize o projeto em: [FlexBlog no Vercel](https://flexblog-wg.vercel.app/)
+👁️ Visualize o projeto em: [Wildbeast no Vercel]()
